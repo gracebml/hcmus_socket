@@ -1,0 +1,35 @@
+<h2>App Guides</h2>
+
+<p><b>
+To use the service, log in or register an account.<br>
+Send email to <b>Client Gmail: <i>almondsrabbit@gmail.com</i></b>
+</b></p>
+
+<h3>Content email format:</h3>
+
+<p>
+Line 1: The <b>IP address</b> of the PC that you want to control.<br>
+Line 2 (and following lines): Requests with correct syntax.
+</p>
+
+<h3>Syntaxes (and return type):</h3>
+
+<p>
+1. List all apps running on server: <b>GetAppRunning</b> (return .txt file)<br>
+2. List all service running on server: <b>GetServiceRunning</b> (return .txt file)<br>
+3. Start app: <b>StartApp-&lt;app name (or path to app.exe)&gt;</b> (return message)<br>
+4. End app: <b>EndApp-&lt;app name (or path to app.exe)&gt;</b> (return message)<br>
+5. Start service: <b>StartService-&lt;service name&gt;</b> (return message)<br>
+6. End service: <b>EndService-&lt;service name&gt;</b> (return message)<br>
+7. Start server webcam: <b>StartWebcam-&lt;number of seconds&gt;</b> (return .mp4 file)<br>
+8. Get file on server: <b>GetFile-&lt;file path&gt;</b> (return file)<br>
+9. Delete file on server: <b>DeleteFile-&lt;file path&gt;</b> (return message)
+</p>
+
+<p style="color: red;">
+IMPORTANT NOTE: In email content, end of each line must be a SEMICOLON (';')
+</p>
+
+<p><i>
+<b>Advice</b>: If the file name is too long (over the width of mail box), you should separate it into the following lines (while doing so you don't need to add ';' until end of file name)
+</i></p>

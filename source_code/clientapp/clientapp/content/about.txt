@@ -1,0 +1,49 @@
+<h3>
+PC Remote Control via Email Project<br>
+Developed by Group 3 - 23TNT1 - HCMUS
+</h3>
+
+<p><b>Version:</b> 1.0.0 (Released December 2024)</p>
+
+<p><b>Members:</b></p>
+<p>
+1. Bang My Linh - 23122009<br>
+2. Nguyen Thi My Kim - 23122040
+</p>
+
+<p><b>Instructors:</b></p>
+<p>
+1. ThS. Do Hoang Cuong<br>
+2. ThS. Huynh Thuy Bao Tran
+</p>
+
+<p><b>Key Features:</b></p>
+<p>
+• Remote PC control through email commands<br>
+• Application and service management<br>
+• File system operations<br>
+• Webcam control capabilities<br>
+</p>
+
+<p><b>System Requirements:</b></p>
+<p>
+• Windows 10/11<br>
+• Internet connection<br>
+• Gmail account<br>
+• Minimum 4GB RAM<br>
+</p>
+
+<p><b>License:</b></p>
+<p>
+© 2024 HCMUS. All rights reserved.<br>
+This software is for educational purposes only.
+</p>
+
+<p><b>Contact & Support:</b></p>
+<p>
+Email: almondsrabbit@gmail.com<br>
+</p>
+
+<p style="color: gray;"><i>
+This project was developed as part of the Computer Network course at HCMUS.
+</i></p>
